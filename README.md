@@ -27,9 +27,6 @@ Provide an integer key for XOR encryption.
 Output saved as encr.amn.
 
 2. Decryption
-bash
-Copy
-Edit
 python decrypt.py
 Enter the path of the .amn file.
 
